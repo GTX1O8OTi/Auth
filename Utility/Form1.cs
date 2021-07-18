@@ -38,7 +38,7 @@ namespace Utility
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/GTX1O8OTi/s-utility");
+            Process.Start("https://github.com/GTX1O8OTi/Auth");
         }
 
         private void button1_Click(object sender, EventArgs e)
